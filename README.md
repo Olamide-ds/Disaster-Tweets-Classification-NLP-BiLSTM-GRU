@@ -4,7 +4,7 @@
 
 Natural disasters often strike without warning, and timely response is critical. While official disaster data is not always immediately available, social media platforms like Twitter serve as rapid, real-time sources of public information. However, sorting through this massive influx of noisy, unstructured data poses a significant challenge.
 
-This project uses Natural Language Processing (NLP) techniques to build a binary classification model that predicts whether a tweet is related to a disaster or not. By leveraging deep learning models like BiLSTM and GRU, the project aims to address the challenge of ambiguity in text and support real-time disaster response.
+This project uses Natural Language Processing (NLP) techniques to build a binary classification model that predicts whether a tweet is related to a disaster or not. By leveraging deep learning models like BiLSTM and GRU and traditional machine learning models like Random Forest and Logistic Regression, the project aims to address the challenge of ambiguity in text and support real-time disaster response.
 
 🎯 Objective
 
