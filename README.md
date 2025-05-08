@@ -22,6 +22,6 @@ Between 2000 and 2019, over 7,000 major disasters impacted billions of lives. Me
 
 - Preprocessing of noisy and unstructured tweet data
 
-- Deep learning models to handle context and ambiguity
+- Traditional machine learning and Deep learning models to handle context and ambiguity
 
-- Focus on real-world application in disaster management
+- Classify tweets that are disaster related or not 
