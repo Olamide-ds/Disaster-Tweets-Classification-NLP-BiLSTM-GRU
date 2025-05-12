@@ -8,4 +8,4 @@ Natural disasters can occur unexpectedly, making rapid response crucial. While o
 This project applies Natural Language Processing (NLP) to build a binary classification model that determines whether a tweet is about a disaster or not. Both traditional machine learning models (e.g., Logistic Regression, Random Forest) and deep learning models (e.g., BiLSTM, GRU) were evaluated.
 
 🔍 Best Performing Model:
-Logistic Regression outperformed all other models in terms of accuracy and reliability for disaster tweet classification.
+Random Forest outperformed all other models in terms of accuracy and reliability for disaster tweet classification.
